@@ -1,3 +1,5 @@
+Tech stack: React Native, AI vision Model (face recognition), flask server, Mongodb, Node.js, Express js
+
 In order to test the application, you will need to have the device that connected with your local wifi.
 
 Your Device has to run the Flask server to be able to work properly. 
